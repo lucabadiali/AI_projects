@@ -65,7 +65,7 @@ A project focused on **reinforcement learning** in a CyberSecurity setting, incl
 ---
 
 ### MLOps_project (FASTAPI, DOCKER, GIT, etc...)
-A project, hosted in this separated [https://github.com/lucabadiali/MLOPS_Project](repo), for the creation of a REST API application for sentiment analysis, including:
+A project, hosted in this separated [repo](https://github.com/lucabadiali/MLOPS_Project), for the creation of a REST API application for sentiment analysis, including:
 - FASTAPI use for API creation,
 - application hosting on HuggingFace,
 - CI/CD via Git actions,
