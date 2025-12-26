@@ -24,7 +24,7 @@ A project dedicated to **linear regression** on a real-world housing dataset, in
 
 ---
 
-### ML_Classification_project
+### ML_Classification_project (Sklearn)
 A **machine learning classification project**, covering:
 - classical k-NN classification algorithm on a real world dataset to classify fruit types.
 - feature engineering,
@@ -40,7 +40,7 @@ A **computer vision project implemented using TensorFlow** on the CIFAR dataset,
 
 ---
 
-### Computer_Vision_PT_project
+### Computer_Vision_PT_project (Pytorch)
 A **PyTorch-based computer vision project** on the Food Classification dataset, focusing on:
 - convolutional neural networks,
 - training pipelines in PyTorch,
@@ -48,7 +48,7 @@ A **PyTorch-based computer vision project** on the Food Classification dataset, 
 
 ---
 
-### Computer_Vision_PT_project2
+### Computer_Vision_PT_project2 (Pytorch)
 A second **PyTorch computer vision project** on a Flower Classification dataset, including:
 - transfer learning,
 - modern architectures (e.g. ResNet, EfficientNet),
@@ -56,7 +56,7 @@ A second **PyTorch computer vision project** on a Flower Classification dataset,
 
 ---
 
-### Reinforcement_Learning_project
+### Reinforcement_Learning_project (Pytorch)
 A project focused on **reinforcement learning** in a CyberSecurity setting, including:
 - classical SARSA implemented via linear function approximation,
 - Q-learning implementation via NNs (DQN),
@@ -64,7 +64,7 @@ A project focused on **reinforcement learning** in a CyberSecurity setting, incl
 
 ---
 
-### MLOps_project
+### MLOps_project (FASTAPI, DOCKER, GIT, etc...)
 A project, hosted in this separated [https://github.com/lucabadiali/MLOPS_Project](repo), for the creation of a REST API application for sentiment analysis, including:
 - FASTAPI use for API creation,
 - application hosting on HuggingFace,
