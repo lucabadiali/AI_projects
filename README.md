@@ -1,6 +1,6 @@
 # AI & Machine Learning Projects
 
-This repository contains a collection of academic and practical projects developed during studies and practice in **Machine Learning, Computer Vision, Reinforcement Learning, and Software Engineering**.  
+This repository contains a collection of practical projects developed during studies and practice in **Machine Learning, Computer Vision, Reinforcement Learning, and Software Engineering**.  
 Each folder corresponds to an independent project focused on a specific topic, framework, or methodology.
 
 ---
