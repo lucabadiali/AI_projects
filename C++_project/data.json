@@ -1,0 +1,77 @@
+{
+    "customer_record": [
+        {
+            "contract_record": {
+                "contract_record": [
+                    {
+                        "datetime": "2010:06:15 ",
+                        "money": 500.0,
+                        "name": "Website Design "
+                    },
+                    {
+                        "datetime": "2012:11:23 ",
+                        "money": 1200.0,
+                        "name": "App Development "
+                    }
+                ]
+            },
+            "name": "Emma",
+            "surname": "Johnson"
+        },
+        {
+            "contract_record": {
+                "contract_record": [
+                    {
+                        "datetime": "2021:01:09 ",
+                        "money": 320.0,
+                        "name": "Consulting Services "
+                    },
+                    {
+                        "datetime": "2023:07:19 ",
+                        "money": 980.0,
+                        "name": "Maintenance Plan "
+                    },
+                    {
+                        "datetime": "2020:03:03 ",
+                        "money": 1450.0,
+                        "name": "Security Audit "
+                    }
+                ]
+            },
+            "name": "Liam",
+            "surname": "Smith"
+        },
+        {
+            "contract_record": {
+                "contract_record": []
+            },
+            "name": "Olivia",
+            "surname": "Martinez"
+        },
+        {
+            "contract_record": {
+                "contract_record": [
+                    {
+                        "datetime": "2005:05:05 ",
+                        "money": 2750.0,
+                        "name": "Software Licensing "
+                    },
+                    {
+                        "datetime": "2008:12:12 ",
+                        "money": 350.0,
+                        "name": "Email Hosting "
+                    }
+                ]
+            },
+            "name": "Noah",
+            "surname": "Davis"
+        },
+        {
+            "contract_record": {
+                "contract_record": []
+            },
+            "name": "Sophia",
+            "surname": "Lee"
+        }
+    ]
+}
